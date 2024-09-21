@@ -1,0 +1,61 @@
+Que.1 Introduction of solidity Programming Language.
+Que.2 Stack , Storage , Memory.
+Que.3 Basic Smart contract Code.
+Que.4 Build a contract in this set and get the value.
+
+# 1. Solidity
+programming language 
+High level programming . low level 
+smart contract  automatic execute agreement terms 
+statically typed language int x =10;  dynamically x=10;
+case sensitive    like remember this things { }
+Gavin wood 2014 co founder of Ethereum 
+Extension  demo.cpp  .java ,   Demo.sol
+smart contract remix ide 
+
+
+
+# 2. Stack , Memory , Storage
+Stack  - state variable - temporary 
+memory - after execution erase - temporary 
+storage - permanent contract
+
+
+3. Contract Example Basic 
+Example :- 
+
+// SPDX-License-Identifier:MIT 
+
+pragma solidity ^0.8.26; // version of compiler
+
+contract Example{
+
+    string public welcome = "hello_world";
+}
+
+
+4. Write the contract in which set and get the value with the help of solidity.
+Example :- 
+
+// SPDX-License-Identifier: MIT
+
+
+pragma solidity ^0.8.0;
+
+contract Example2{
+
+    string enter;
+
+    function set(string memory value) public {
+        enter = value;
+    }
+
+    function get() public view returns(string memory){
+        return enter;
+    }
+}
+
+
+
+
+

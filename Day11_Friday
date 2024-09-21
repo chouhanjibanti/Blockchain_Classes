@@ -1,0 +1,68 @@
+Que.1 -  What is Ethereum account and type of accounts.
+Que.2 - Gas calculation and How to convert Gas to Ether.
+Que.3 - Calculator Contract build compile ,  deploy in the Ethereum blockchain.
+
+
+
+# 1. Ethereum accounts
+
+1. EOAs Externally owned accounts  for example metamask Account
+
+            control by private key      
+
+2. CA (Contract Accounts )
+
+       Control By code 
+
+
+
+
+# 2. Gas fee ➖ Calculation
+
+Gas  price per unit = 100 Gwei 
+
+transaction gas limit = 21000
+
+Total fee = gas price per unit * Gas limit =  2100000 Gwei   =  0.0021 ETH
+
+Notes:-   1 Gwei = 10^9
+
+
+
+
+# 3. Calculator Contract build and deploy in the Ethereum blockchain.
+
+Example:-
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
+
+contract Calculator{
+
+    uint public result;
+
+    function add(uint256 a , uint256 b ) public 
+    {
+        result = a+b;
+
+    }
+
+     function subtract(uint256 a , uint256 b ) public 
+    {
+        result = a-b;
+        
+    }
+
+     function multiply(uint256 a , uint256 b ) public 
+    {
+        result = a*b;
+        
+    }
+
+     function divide(uint256 a , uint256 b ) public 
+    {
+        result = a/b;
+        
+    }
+}

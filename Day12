@@ -1,0 +1,45 @@
+1. Ethereum virtual Machine  (EVM)
+dApps,   Blockchain network node /system 
+
+Evm Architecture :-
+
+a. smart contract -
+
+b. Evm bytecode - 
+
+c. Evm execution Environment 
+
+stack  :- global member , temporary , erase 
+storage  :-  smart contract , permanent 
+memory :-  argument , temporary
+
+d. Gas :- fees , smart contract , dapps.
+
+e. Transaction :- 
+
+External  :- user , contract execute 
+Internal :-  contract calling other contract 
+
+f. world state 
+Accounts :- EOAs , CA
+
+
+2. Evm nodes and Mining 
+
+Nodes ➖ system , transaction , investment 
+Mining -  POW( complex problem , puzzle , mathematical problem , computational power system 
+
+
+3. CA contract account Example:- 
+
+A —-B    Business 
+
+A - smart contract —code 
+
+platform —->  Ethereum blockchain    deploy 
+
+block — block  — block
+
+contract → code   -first block  → CA (hgbwdhwbwbc23456)
+
+key- hgbwdhwbwbc23456  - B    can access the account .

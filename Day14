@@ -1,0 +1,28 @@
+1. Bytecode :-  machine understandable, not by human and developer.
+
+6080604052348015600e575f80fd5b506103448061001c5f395ff3fe608060405234801561000f575f80fd5b5060043610610055575f3560e01c8063165c4a16146100595780633ef5e445146100755780636537214714610091578063771602f7146100af578063f88e9fbf146100cb575b5f80fd5b610073600480360381019061006e9190610177565b6100e7565b005b61008f600480360381019061008a9190610177565b6100fc565b0
+
+2. ABI(Application binary interface ) :-  json
+
+3. Opcode   :- operations   , binary 0, 1
+
+0x01 (ADD): Adds the top two stack elements ser
+0x02 (MUL): Multiplies the top two stack elements.
+0x10 (LT): Checks if the second stack element is less than the top stack element.
+0x14 (EQ): Checks if the top two stack elements are equal.
+
+4.  Converting bytecode to opcode.
+
+5. How to add the another account from the Ganache blockchain.
+
+6. Practice Project :- Transfer Ether from one account to another account. In metamask.
+
+7. Tools :- 
+
+    Remix Ide 
+
+    Metamask
+
+   Solidity
+
+   Ganache  - Download and install

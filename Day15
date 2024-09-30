@@ -1,0 +1,72 @@
+. Solidity Overview
+
+1. solidity programming language
+
+2. High level pro .lan.
+
+3. smart contract 
+
+4. statically types language  int  x =10;
+
+5. Case sensitive    A  a  contract demo{ }                 
+                                             
+6. Gavin wood    co-founder   August 2014          ——>  Ethereum 2014   smart co. , transaction,, DAPPS
+
+7. Extension  after file name      .java , . cpp ,  .sol
+
+8. Remix IDE (Integrated development environment )
+
+9. Solidity  concepts
+
+10. datatype
+
+11. variable
+
+12. conditional statement   - if , if else
+
+13. control structure    - LOOPS
+
+14. Functions  - pure function & view Functions 
+
+15. Access specifier - public  private external and internal 
+
+16. Events 
+
+17. Structs
+
+18. enum
+
+19. inheritance
+
+20. Mapping 
+
+21. Array
+
+
+
+1. Variables -  variable is 
+
+uint x =10;     x
+
+  a. address 
+
+address public  userAddress =  0x016fFE76b52d83Ca28532A87c373a39e3456f9eF;
+
+  b. String 
+
+string public s = “hellow,solidity”;
+
+   c.  Bool
+
+bool public isBool = true;
+
+
+   d. uint8 & uint256
+
+  uint8 → 0-255  256;
+
+  uint256 → bigint 
+
+uint8 public Max_Supply = 255;
+
+uint256 public Supply = …;

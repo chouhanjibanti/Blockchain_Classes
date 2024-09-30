@@ -1,0 +1,80 @@
+1. Blockchain Technology
+Tools:- 
+
+a.Remix IDE
+
+b.Solidity
+
+c.Metamask
+
+d.Ganache 
+
+e.Infura API   
+
+f.Alchemy API
+
+g.Truffle 
+
+h.Hardhat
+
+i.solc
+
+
+
+2. Hyperledger Framework :- private blockchain   — permissioned blockchain 
+
+a. Hyperledger sawtooth
+
+b. Hyperledger Fabric 
+
+c. Hyperledger Iroha 
+
+d. Hyperledger Indy
+
+e. Hyperledger burrow 
+
+f. Hyperledger Grid
+
+
+
+3. Tools Of Hyperledger 
+
+a. CELLO
+
+b. CALIPER
+
+c. COMPOSER
+
+d. EXPLORER
+
+e. QUILT
+
+f. URSA
+
+
+
+4. solidity Remaining Topics:- 
+
+a. structs
+
+b. enum
+
+c. function
+
+d. mapping
+
+e. Events
+
+
+
+5. Project Overview :- 
+
+Project :- Library Management System
+
+How its work
+
+Tools :- MetaMask , Hardhat , V.S Code ,  Remix IDE
+
+Network :- Sepolia network
+
+Technology And Language : React , Solidity programming Language
